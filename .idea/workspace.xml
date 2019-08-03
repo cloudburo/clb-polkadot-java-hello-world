@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e09e3838-6913-4971-83e1-f53704ea870e" name="Default Changelist" comment="" />
+    <list default="true" id="e09e3838-6913-4971-83e1-f53704ea870e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -283,7 +285,7 @@
       <updated>1564571973415</updated>
       <workItem from="1564571977069" duration="3722000" />
       <workItem from="1564639654007" duration="6495000" />
-      <workItem from="1564872133420" duration="2607000" />
+      <workItem from="1564872133420" duration="2831000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1564873319600</created>
@@ -313,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564874131395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial2">
+      <created>1564874760292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1564874760292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12824000" />
+    <option name="totallyTimeSpent" value="13048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -328,7 +337,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87852347" visible="true" weight="0.3895184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87852347" weight="0.3895184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +366,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial 1" />
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Initial2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
