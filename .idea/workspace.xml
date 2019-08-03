@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e09e3838-6913-4971-83e1-f53704ea870e" name="Default Changelist" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/logs/2019-07/app-07-31-2019-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/2019-08/app-08-01-2019-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/2019-08/app-08-03-2019-1.log.gz" afterDir="false" />
-    </list>
+    <list default="true" id="e09e3838-6913-4971-83e1-f53704ea870e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -62,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -93,15 +89,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
               <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/gs.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="148" lean-forward="true" selection-start-line="148" selection-end-line="148" />
             </state>
           </provider>
         </entry>
@@ -209,6 +196,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -295,7 +283,7 @@
       <updated>1564571973415</updated>
       <workItem from="1564571977069" duration="3722000" />
       <workItem from="1564639654007" duration="6495000" />
-      <workItem from="1564872133420" duration="1809000" />
+      <workItem from="1564872133420" duration="2607000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1564873319600</created>
@@ -311,15 +299,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564873733747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial 1">
+      <created>1564873965622</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564873965622</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial">
+      <created>1564874131395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564874131395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12026000" />
+    <option name="totallyTimeSpent" value="12824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -327,7 +328,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3895184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.87852347" visible="true" weight="0.3895184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,7 +336,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3895184" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.12147651" side_tool="true" visible="true" weight="0.3895184" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Build" order="12" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -354,6 +355,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial 1" />
     <MESSAGE value="Initial" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
@@ -494,7 +496,7 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
